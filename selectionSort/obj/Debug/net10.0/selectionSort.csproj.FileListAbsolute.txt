@@ -1,0 +1,14 @@
+D:\c#-problem-solving\selectionSort\bin\Debug\net10.0\selectionSort.exe
+D:\c#-problem-solving\selectionSort\bin\Debug\net10.0\selectionSort.deps.json
+D:\c#-problem-solving\selectionSort\bin\Debug\net10.0\selectionSort.runtimeconfig.json
+D:\c#-problem-solving\selectionSort\bin\Debug\net10.0\selectionSort.dll
+D:\c#-problem-solving\selectionSort\bin\Debug\net10.0\selectionSort.pdb
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.AssemblyInfoInputs.cache
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.AssemblyInfo.cs
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.dll
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\refint\selectionSort.dll
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.pdb
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.genruntimeconfig.cache
+D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\ref\selectionSort.dll

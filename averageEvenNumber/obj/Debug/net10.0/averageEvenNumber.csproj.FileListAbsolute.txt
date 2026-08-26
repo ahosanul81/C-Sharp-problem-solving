@@ -1,0 +1,14 @@
+D:\c#-problem-solving\averageEvenNumber\bin\Debug\net10.0\averageEvenNumber.exe
+D:\c#-problem-solving\averageEvenNumber\bin\Debug\net10.0\averageEvenNumber.deps.json
+D:\c#-problem-solving\averageEvenNumber\bin\Debug\net10.0\averageEvenNumber.runtimeconfig.json
+D:\c#-problem-solving\averageEvenNumber\bin\Debug\net10.0\averageEvenNumber.dll
+D:\c#-problem-solving\averageEvenNumber\bin\Debug\net10.0\averageEvenNumber.pdb
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.AssemblyInfoInputs.cache
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.AssemblyInfo.cs
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.dll
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\refint\averageEvenNumber.dll
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.pdb
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\averageEvenNumber.genruntimeconfig.cache
+D:\c#-problem-solving\averageEvenNumber\obj\Debug\net10.0\ref\averageEvenNumber.dll

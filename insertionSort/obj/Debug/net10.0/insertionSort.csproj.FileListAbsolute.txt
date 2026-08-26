@@ -1,0 +1,14 @@
+D:\c#-problem-solving\insertionSort\bin\Debug\net10.0\insertionSort.exe
+D:\c#-problem-solving\insertionSort\bin\Debug\net10.0\insertionSort.deps.json
+D:\c#-problem-solving\insertionSort\bin\Debug\net10.0\insertionSort.runtimeconfig.json
+D:\c#-problem-solving\insertionSort\bin\Debug\net10.0\insertionSort.dll
+D:\c#-problem-solving\insertionSort\bin\Debug\net10.0\insertionSort.pdb
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.AssemblyInfoInputs.cache
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.AssemblyInfo.cs
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.dll
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\refint\insertionSort.dll
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.pdb
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.genruntimeconfig.cache
+D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\ref\insertionSort.dll

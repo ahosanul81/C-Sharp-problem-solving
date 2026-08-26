@@ -1,0 +1,14 @@
+D:\c#-problem-solving\wordBuilder\bin\Debug\net10.0\wordBuilder.exe
+D:\c#-problem-solving\wordBuilder\bin\Debug\net10.0\wordBuilder.deps.json
+D:\c#-problem-solving\wordBuilder\bin\Debug\net10.0\wordBuilder.runtimeconfig.json
+D:\c#-problem-solving\wordBuilder\bin\Debug\net10.0\wordBuilder.dll
+D:\c#-problem-solving\wordBuilder\bin\Debug\net10.0\wordBuilder.pdb
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.AssemblyInfoInputs.cache
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.AssemblyInfo.cs
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.dll
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\refint\wordBuilder.dll
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.pdb
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\wordBuilder.genruntimeconfig.cache
+D:\c#-problem-solving\wordBuilder\obj\Debug\net10.0\ref\wordBuilder.dll
