@@ -1,0 +1,15 @@
+D:\c#-problem-solving\palindromeChecker\bin\Debug\net10.0\palindromeChecker.exe
+D:\c#-problem-solving\palindromeChecker\bin\Debug\net10.0\palindromeChecker.deps.json
+D:\c#-problem-solving\palindromeChecker\bin\Debug\net10.0\palindromeChecker.runtimeconfig.json
+D:\c#-problem-solving\palindromeChecker\bin\Debug\net10.0\palindromeChecker.dll
+D:\c#-problem-solving\palindromeChecker\bin\Debug\net10.0\palindromeChecker.pdb
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.AssemblyInfoInputs.cache
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.AssemblyInfo.cs
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.sourcelink.json
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.dll
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\refint\palindromeChecker.dll
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.pdb
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\palindromeChecker.genruntimeconfig.cache
+D:\c#-problem-solving\palindromeChecker\obj\Debug\net10.0\ref\palindromeChecker.dll

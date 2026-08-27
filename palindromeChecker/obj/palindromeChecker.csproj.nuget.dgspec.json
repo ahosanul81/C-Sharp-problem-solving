@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#-problem-solving\\wordBuilder\\wordBuilder.csproj": {}
+    "D:\\c#-problem-solving\\palindromeChecker\\palindromeChecker.csproj": {}
   },
   "projects": {
-    "d:\\c#-problem-solving\\wordBuilder\\wordBuilder.csproj": {
+    "D:\\c#-problem-solving\\palindromeChecker\\palindromeChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#-problem-solving\\wordBuilder\\wordBuilder.csproj",
-        "projectName": "wordBuilder",
-        "projectPath": "d:\\c#-problem-solving\\wordBuilder\\wordBuilder.csproj",
+        "projectUniqueName": "D:\\c#-problem-solving\\palindromeChecker\\palindromeChecker.csproj",
+        "projectName": "palindromeChecker",
+        "projectPath": "D:\\c#-problem-solving\\palindromeChecker\\palindromeChecker.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "d:\\c#-problem-solving\\wordBuilder\\obj\\",
+        "outputPath": "D:\\c#-problem-solving\\palindromeChecker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
