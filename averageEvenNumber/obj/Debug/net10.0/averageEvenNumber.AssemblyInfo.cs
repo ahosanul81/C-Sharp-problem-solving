@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("averageEvenNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63118bb7c2458844dac33c86d47240dd90d5536")]
 [assembly: System.Reflection.AssemblyProductAttribute("averageEvenNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("averageEvenNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

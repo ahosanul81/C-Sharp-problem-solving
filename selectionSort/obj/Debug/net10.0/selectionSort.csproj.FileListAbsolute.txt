@@ -12,3 +12,4 @@ D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\refint\selectionSort.dll
 D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.pdb
 D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.genruntimeconfig.cache
 D:\c#-problem-solving\selectionSort\obj\Debug\net10.0\ref\selectionSort.dll
+d:\c#-problem-solving\selectionSort\obj\Debug\net10.0\selectionSort.sourcelink.json

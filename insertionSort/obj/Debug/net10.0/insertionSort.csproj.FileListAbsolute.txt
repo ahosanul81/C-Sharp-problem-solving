@@ -12,3 +12,4 @@ D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\refint\insertionSort.dll
 D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.pdb
 D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.genruntimeconfig.cache
 D:\c#-problem-solving\insertionSort\obj\Debug\net10.0\ref\insertionSort.dll
+d:\c#-problem-solving\insertionSort\obj\Debug\net10.0\insertionSort.sourcelink.json

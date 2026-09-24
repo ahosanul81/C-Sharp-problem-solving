@@ -1,0 +1,15 @@
+D:\c#-problem-solving\longestCommonPrefix\bin\Debug\net10.0\longestCommonPrefix.exe
+D:\c#-problem-solving\longestCommonPrefix\bin\Debug\net10.0\longestCommonPrefix.deps.json
+D:\c#-problem-solving\longestCommonPrefix\bin\Debug\net10.0\longestCommonPrefix.runtimeconfig.json
+D:\c#-problem-solving\longestCommonPrefix\bin\Debug\net10.0\longestCommonPrefix.dll
+D:\c#-problem-solving\longestCommonPrefix\bin\Debug\net10.0\longestCommonPrefix.pdb
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.AssemblyInfoInputs.cache
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.AssemblyInfo.cs
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.sourcelink.json
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.dll
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\refint\longestCommonPrefix.dll
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.pdb
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\longestCommonPrefix.genruntimeconfig.cache
+D:\c#-problem-solving\longestCommonPrefix\obj\Debug\net10.0\ref\longestCommonPrefix.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj": {}
+    "D:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj": {}
   },
   "projects": {
-    "d:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj": {
+    "D:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj",
+        "projectUniqueName": "D:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj",
         "projectName": "averageEvenNumber",
-        "projectPath": "d:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj",
+        "projectPath": "D:\\c#-problem-solving\\averageEvenNumber\\averageEvenNumber.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "d:\\c#-problem-solving\\averageEvenNumber\\obj\\",
+        "outputPath": "D:\\c#-problem-solving\\averageEvenNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
