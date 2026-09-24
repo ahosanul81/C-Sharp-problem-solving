@@ -1,0 +1,15 @@
+D:\c#-problem-solving\validParenthesesL20\bin\Debug\net10.0\validParenthesesL20.exe
+D:\c#-problem-solving\validParenthesesL20\bin\Debug\net10.0\validParenthesesL20.deps.json
+D:\c#-problem-solving\validParenthesesL20\bin\Debug\net10.0\validParenthesesL20.runtimeconfig.json
+D:\c#-problem-solving\validParenthesesL20\bin\Debug\net10.0\validParenthesesL20.dll
+D:\c#-problem-solving\validParenthesesL20\bin\Debug\net10.0\validParenthesesL20.pdb
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.AssemblyInfoInputs.cache
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.AssemblyInfo.cs
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.csproj.CoreCompileInputs.cache
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.sourcelink.json
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.dll
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\refint\validParenthesesL20.dll
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.pdb
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\validParenthesesL20.genruntimeconfig.cache
+D:\c#-problem-solving\validParenthesesL20\obj\Debug\net10.0\ref\validParenthesesL20.dll
